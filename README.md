@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RHFlame
+- 👀 I’m interested in minecraft development and codeing.
+- 🌱 I’m currently learning C and C++ code.
+- 💞️ I’m looking to collaborate on N/A
+- 📫 How to reach me through discord at @RHFlame#0001
